@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: January 5th, 2021
+### Day 1: January 5th, 2021
 
  #### Read 100DaysOfCode Challenge article from: https://www.freecodecamp.org/news/the-crazy-history-of-the-100daysofcode-challenge-and-why-you-should-try-it-for-2018-6c89a76e298d/
 
@@ -12,6 +12,20 @@
 
 #### But first of all I need to know how to be able to publish a post in one site that you already have, so I will start with that. 
 
-### Day 1: January 6th, 2021
+### Day 2: January 6th, 2021
 
 Today I'm trying to setup github as a site so I'm able to publish and tests the posts in local. To do that I'm following the steps indicated here: https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll, but I am getting errors when I'm trying to install bundler and jekyll. 
+
+### Day 3: January 7th, 2021
+
+Solving another error to set up GitHub pages.
+
+I've found the solution in this link:
+https://talk.jekyllrb.com/t/cant-create-a-new-test-site-w-jekyll/1989/5
+
+At the end it was executing: 'bundle add jekyll'
+
+After that all the 7th step of:
+https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/creating-a-github-pages-site-with-jekyll worked
+
+Next step test github site in local. 
