@@ -28,4 +28,11 @@ At the end it was executing: 'bundle add jekyll'
 After that all the 7th step of:
 https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/creating-a-github-pages-site-with-jekyll worked
 
-Next step test github site in local. 
+Next step test github site in local, that was execute: bundle exec jekyll serve
+
+But I got the following error:
+
+> /usr/local/lib/ruby/gems/3.0.0/gems/jekyll-3.9.0/lib/jekyll/commands/serve/servlet.rb:3:in `require': cannot load such file -- webrick (LoadError)
+
+The solution was execute the following command: ``` bundle add webrick ```
+
