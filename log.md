@@ -36,3 +36,7 @@ But I got the following error:
 
 The solution was execute the following command: ``` bundle add webrick ```
 
+### Day 4: January 8th, 2021
+
+Today I figured out how themes work in Github pages, because I change it and I started to have errors. As well, how updates on _config.yml affects to the whole site. 
+
