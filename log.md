@@ -40,3 +40,7 @@ The solution was execute the following command: ``` bundle add webrick ```
 
 Today I figured out how themes work in Github pages, because I change it and I started to have errors. As well, how updates on _config.yml affects to the whole site. 
 
+### Day 5: January 10th, 2021
+
+Followed the setup: https://jekyllrb.com/docs/step-by-step/01-setup/, to understand how github pages work. 
+
