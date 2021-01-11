@@ -42,5 +42,9 @@ Today I figured out how themes work in Github pages, because I change it and I s
 
 ### Day 5: January 10th, 2021
 
-Followed the setup: https://jekyllrb.com/docs/step-by-step/01-setup/, to understand how github pages work. 
+Followed the setup: https://jekyllrb.com/docs/step-by-step/01-setup/, to understand how github pages work.
+
+### Day 6: January 11th, 2021
+
+I selected a theme for Jekyll and I have updated it so the blog looks like I want to without creating a new theme from scratch. 
 
