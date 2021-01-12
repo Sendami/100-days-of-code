@@ -48,3 +48,6 @@ Followed the setup: https://jekyllrb.com/docs/step-by-step/01-setup/, to underst
 
 I selected a theme for Jekyll and I have updated it so the blog looks like I want to without creating a new theme from scratch. 
 
+### Day 7: January 12th, 2021
+
+I added the first version of a post in my blog. It's amazing how you want to investigate how to define the concepts when you need to explain them. 
