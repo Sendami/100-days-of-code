@@ -51,3 +51,7 @@ I selected a theme for Jekyll and I have updated it so the blog looks like I wan
 ### Day 7: January 12th, 2021
 
 I added the first version of a post in my blog. It's amazing how you want to investigate how to define the concepts when you need to explain them. 
+
+### Day 8: January 13th, 20201
+
+Today I added some more format to the posts remembering a bit of Bootstrap and publish the blog in a github domain: https://sendami-tech.github.io/sendamiTechBlog/
