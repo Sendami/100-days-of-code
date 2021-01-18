@@ -52,6 +52,10 @@ I selected a theme for Jekyll and I have updated it so the blog looks like I wan
 
 I added the first version of a post in my blog. It's amazing how you want to investigate how to define the concepts when you need to explain them. 
 
-### Day 8: January 13th, 20201
+### Day 8: January 13th, 2021
 
 Today I added some more format to the posts remembering a bit of Bootstrap and publish the blog in a github domain: https://sendami-tech.github.io/sendamiTechBlog/
+
+### Day 9: January 18th, 2021
+
+Today I've been learning how to add tags to the posts following this link: https://longqian.me/2017/02/09/github-jekyll-tag/, but I'm not abble to have it working. 
