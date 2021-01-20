@@ -58,4 +58,11 @@ Today I added some more format to the posts remembering a bit of Bootstrap and p
 
 ### Day 9: January 18th, 2021
 
-Today I've been learning how to add tags to the posts following this link: https://longqian.me/2017/02/09/github-jekyll-tag/, but I'm not abble to have it working. 
+Today I've been learning how to add tags to the posts following this link: https://longqian.me/2017/02/09/github-jekyll-tag/, but I'm not abble to have it working.
+
+### Day 10: January 20th, 2021
+
+Today I've been reading info about SEO, to understand how it works and how to design a website according to that. 
+I have read the following articles:
+* https://www.smashingmagazine.com/2019/05/vue-js-seo-reactive-websites-search-engines-bots/
+* https://dzone.com/articles/how-to-make-vuejs-website-seo-friendly
