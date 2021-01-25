@@ -66,3 +66,9 @@ Today I've been reading info about SEO, to understand how it works and how to de
 I have read the following articles:
 * https://www.smashingmagazine.com/2019/05/vue-js-seo-reactive-websites-search-engines-bots/
 * https://dzone.com/articles/how-to-make-vuejs-website-seo-friendly
+
+### Day 11: January 25th, 2021
+Today I've been investigating how to add comments to every post I'm publishing. 
+To figure it out I needed to read the following posts:
+* https://stackoverflow.com/questions/59096243/adding-comments-in-blog-posts-on-github-pages
+* https://utteranc.es/?installation_id=14297767&setup_action=install
