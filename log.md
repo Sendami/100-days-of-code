@@ -72,3 +72,6 @@ Today I've been investigating how to add comments to every post I'm publishing.
 To figure it out I needed to read the following posts:
 * https://stackoverflow.com/questions/59096243/adding-comments-in-blog-posts-on-github-pages
 * https://utteranc.es/?installation_id=14297767&setup_action=install
+
+### Day 12: January 31st, 2021
+Learning webhooks: https://www.youtube.com/watch?reload=9&v=41NOoEz3Tzc
