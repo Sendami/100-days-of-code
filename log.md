@@ -75,3 +75,6 @@ To figure it out I needed to read the following posts:
 
 ### Day 12: January 31st, 2021
 Learning webhooks: https://www.youtube.com/watch?reload=9&v=41NOoEz3Tzc
+
+### Day 13: February 1st, 2021
+Still learning webhooks: https://github.com/sendami-tech/webhooks-course/settings/hooks/278965216
