@@ -78,3 +78,6 @@ Learning webhooks: https://www.youtube.com/watch?reload=9&v=41NOoEz3Tzc
 
 ### Day 13: February 1st, 2021
 Still learning webhooks: https://github.com/sendami-tech/webhooks-course/settings/hooks/278965216
+
+### Day 14: February 5th, 2021
+Still learning webhhooks: Today updating them in actual code
