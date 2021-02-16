@@ -81,3 +81,10 @@ Still learning webhooks: https://github.com/sendami-tech/webhooks-course/setting
 
 ### Day 14: February 5th, 2021
 Still learning webhhooks: Today updating them in actual code
+
+### Day 15: February 15th, 2021
+Finally I finished the learning webhooks course. A bit boring at the end as it was full of tools but no creating things from code.
+As well I came back to Hackerrank. I did a test of 3 exercise to prove my coding skills, and I don't know what happened yet, well, I know. First, my mind works slowly lately, and I need to practise more. So I will plan to include more Hackerank in my week tasks. 
+
+### Day 16: February 16th, 2021
+Today I didn't do any code, I read an article from FreeCodeCamp. This one: https://www.freecodecamp.org/news/from-hackathon-to-cto-in-3-years/. It is indeed very interesting and as a consequence I'm planning to read these two books: The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win and Effective DevOps: Building a Culture of Collaboration, Affinity, and Tooling at Scale. Lately, I've been doing lots of tooling at work and I really enjoy it. I want to learn more about it. 
