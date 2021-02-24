@@ -88,3 +88,9 @@ As well I came back to Hackerrank. I did a test of 3 exercise to prove my coding
 
 ### Day 16: February 16th, 2021
 Today I didn't do any code, I read an article from FreeCodeCamp. This one: https://www.freecodecamp.org/news/from-hackathon-to-cto-in-3-years/. It is indeed very interesting and as a consequence I'm planning to read these two books: The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win and Effective DevOps: Building a Culture of Collaboration, Affinity, and Tooling at Scale. Lately, I've been doing lots of tooling at work and I really enjoy it. I want to learn more about it. 
+
+### Days 17, 18, 19: February 17th, 18th and 19th, 2021
+Las week I was trying to setup my blog with GitHub Actions so everytime I add a new post automatically this log and twitter was updated. After three days, it's still not working. I followed this post: https://github.com/marketplace/actions/send-tweet-action. 
+
+### Day 20: February 24th, 2021
+Attending AWS Innovate https://innovate-emea.virtual.awsevents.com/e/202317533/I%27m+an+Application+Developer. Trying to find a reason to learn more about ML, but I didn't have any luck. I didn't understand anything. 
