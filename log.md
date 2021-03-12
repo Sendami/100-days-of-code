@@ -94,3 +94,6 @@ Las week I was trying to setup my blog with GitHub Actions so everytime I add a 
 
 ### Day 20: February 24th, 2021
 Attending AWS Innovate https://innovate-emea.virtual.awsevents.com/e/202317533/I%27m+an+Application+Developer. Trying to find a reason to learn more about ML, but I didn't have any luck. I didn't understand anything. 
+
+### Day 21: March 12th, 2021
+Learn how to publish my blog post based on github pages in a custom domain. https://www.namecheap.com/support/knowledgebase/article.aspx/9645/2208/how-do-i-link-my-domain-to-github-pages/
